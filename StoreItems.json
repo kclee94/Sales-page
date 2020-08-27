@@ -1,12 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "100thammer",
-		"price": 1408,
-		"category": "Melee weapons",
-		"defname": "Kijin_100tHammer"
-	},
-	{
 		"abr": "abyssiniancat",
 		"price": 333,
 		"category": "Animal",
@@ -739,12 +733,6 @@
 		"defname": "BionicHeart"
 	},
 	{
-		"abr": "bionickijinhorn",
-		"price": 1808,
-		"category": "Bionic",
-		"defname": "Kijin_BionicHorn"
-	},
-	{
 		"abr": "bionicleg",
 		"price": 1717,
 		"category": "Bionic",
@@ -755,12 +743,6 @@
 		"price": 2500,
 		"category": "Bionic",
 		"defname": "BionicLupaiosTail"
-	},
-	{
-		"abr": "bionicmoyotail",
-		"price": 1583,
-		"category": "Bionic",
-		"defname": "Moyo_BionicTail"
 	},
 	{
 		"abr": "bionicspine",
@@ -883,12 +865,6 @@
 		"defname": "BlueDevilstrand"
 	},
 	{
-		"abr": "bluehaze",
-		"price": 75,
-		"category": "Drugs",
-		"defname": "BlueYo"
-	},
-	{
 		"abr": "bluehyperweave",
 		"price": 15,
 		"category": "Dyed Hyperweave",
@@ -913,22 +889,10 @@
 		"defname": "BlueberrySoda"
 	},
 	{
-		"abr": "blueburst",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueBurst"
-	},
-	{
 		"abr": "bluefur",
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur"
-	},
-	{
-		"abr": "bluemed",
-		"price": 70,
-		"category": "Medicine",
-		"defname": "MoyoMedicine"
 	},
 	{
 		"abr": "blueprint",
@@ -1519,12 +1483,6 @@
 		"defname": "RC2_RawOrange"
 	},
 	{
-		"abr": "clens-azure",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "Clensazure"
-	},
-	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
@@ -1759,12 +1717,6 @@
 		"defname": "VAGPCornbread"
 	},
 	{
-		"abr": "cornedmeat",
-		"price": 2,
-		"category": "Raw meat",
-		"defname": "SaltedMeatKijin"
-	},
-	{
 		"abr": "coronet",
 		"price": 215,
 		"category": "Headgear",
@@ -1963,18 +1915,6 @@
 		"defname": "VCE_RawPlum"
 	},
 	{
-		"abr": "darkmarinearmor",
-		"price": 3392,
-		"category": "Apparel",
-		"defname": "Apparel_PowerArmorDK"
-	},
-	{
-		"abr": "darkmarinehelmet",
-		"price": 1058,
-		"category": "Headgear",
-		"defname": "Apparel_PowerArmorHelmetDK"
-	},
-	{
 		"abr": "dartsboard",
 		"price": 174,
 		"category": "Furniture",
@@ -2039,18 +1979,6 @@
 		"price": 304,
 		"category": "Production",
 		"defname": "VCE_DeepFrier"
-	},
-	{
-		"abr": "deepblueserum",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "AbyssSerum"
-	},
-	{
-		"abr": "deepbluestation",
-		"price": 2500,
-		"category": "Production",
-		"defname": "Moyo_DBS"
 	},
 	{
 		"abr": "deer",
@@ -2653,12 +2581,6 @@
 		"defname": "RC2_RawEggplants"
 	},
 	{
-		"abr": "fakemoyotail",
-		"price": 240,
-		"category": "Prosthetic",
-		"defname": "Moyo_FakeTail"
-	},
-	{
 		"abr": "fennecfox",
 		"price": 333,
 		"category": "Animal",
@@ -2783,12 +2705,6 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
-	},
-	{
-		"abr": "firewardcharm",
-		"price": 157,
-		"category": "Apparel",
-		"defname": "Kijin_FirewardCharm"
 	},
 	{
 		"abr": "fishbowl",
@@ -3193,12 +3109,6 @@
 		"defname": "Gold"
 	},
 	{
-		"abr": "goldbar",
-		"price": 1667,
-		"category": "Raw resources",
-		"defname": "GoldBar"
-	},
-	{
 		"abr": "goldfish",
 		"price": 33,
 		"category": "Tropical Fish",
@@ -3467,96 +3377,6 @@
 		"price": 2258,
 		"category": "Books",
 		"defname": "VBE_BookGrowing"
-	},
-	{
-		"abr": "guardingvest",
-		"price": 400,
-		"category": "Apparel",
-		"defname": "Kijin_FlakVest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthammock",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RedeGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
 	},
 	{
 		"abr": "guineapig",
@@ -4033,12 +3853,6 @@
 		"defname": "Radio_Industrial"
 	},
 	{
-		"abr": "infernoarmor",
-		"price": 8333,
-		"category": "Apparel",
-		"defname": "Kijin_EpicArmor"
-	},
-	{
 		"abr": "infernocannon",
 		"price": 2333,
 		"category": "Ranged weapons",
@@ -4049,12 +3863,6 @@
 		"price": 2333,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
-	},
-	{
-		"abr": "infernoheadgear",
-		"price": 8333,
-		"category": "Headgear",
-		"defname": "Kijin_EpicHelm"
 	},
 	{
 		"abr": "infinitechemreactor",
@@ -4187,66 +3995,6 @@
 		"price": 417,
 		"category": "Natural",
 		"defname": "Kidney"
-	},
-	{
-		"abr": "kijin",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "Alien_Kijin"
-	},
-	{
-		"abr": "kijinelectricsmithy",
-		"price": 492,
-		"category": "Production",
-		"defname": "KijinElectricSmithy"
-	},
-	{
-		"abr": "kijinfan",
-		"price": 650,
-		"category": "Grenades",
-		"defname": "Kijin_Fan"
-	},
-	{
-		"abr": "kijinflamebow",
-		"price": 260,
-		"category": "Ranged weapons",
-		"defname": "Kijin_FlameBow"
-	},
-	{
-		"abr": "kijinmace",
-		"price": 286,
-		"category": "Melee weapons",
-		"defname": "Kijin_Mace"
-	},
-	{
-		"abr": "kijinmeat",
-		"price": 2,
-		"category": "Raw meat",
-		"defname": "Meat_Alien_Kijin"
-	},
-	{
-		"abr": "kijinparalysisbow",
-		"price": 600,
-		"category": "Ranged weapons",
-		"defname": "Kijin_PosionBow"
-	},
-	{
-		"abr": "kijinpolearm",
-		"price": 408,
-		"category": "Melee weapons",
-		"defname": "Kijin_Polearm"
-	},
-	{
-		"abr": "kijinsmithy",
-		"price": 333,
-		"category": "Production",
-		"defname": "KijinSmithy"
-	},
-	{
-		"abr": "kijinsmokebomb",
-		"price": 592,
-		"category": "Grenades",
-		"defname": "Kijin_SmokeBomb"
 	},
 	{
 		"abr": "kitchensinkcabinet",
@@ -5053,286 +4801,10 @@
 		"defname": "Meat_AEXP_Moose"
 	},
 	{
-		"abr": "morphi-blue",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueGo"
-	},
-	{
 		"abr": "mortar",
 		"price": 1058,
 		"category": "Security",
 		"defname": "Turret_Mortar"
-	},
-	{
-		"abr": "moyo",
-		"price": 5333,
-		"category": "Animal",
-		"defname": "Alien_Moyo"
-	},
-	{
-		"abr": "moyoautocannon",
-		"price": 2900,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_AutoCannon"
-	},
-	{
-		"abr": "moyobalista",
-		"price": 2800,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_BoltCaster"
-	},
-	{
-		"abr": "moyobloodbag",
-		"price": 33,
-		"category": "Manufactured",
-		"defname": "Moyo_BloodBag"
-	},
-	{
-		"abr": "moyobodysuit",
-		"price": 675,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Bodysuit"
-	},
-	{
-		"abr": "moyobodywrappings",
-		"price": 211,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Tribal"
-	},
-	{
-		"abr": "moyobowlerhat",
-		"price": 77,
-		"category": "Moyo headgear",
-		"defname": "Moyo_BowlerHat"
-	},
-	{
-		"abr": "moyochargerifle",
-		"price": 1892,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeRifle"
-	},
-	{
-		"abr": "moyochargesmg",
-		"price": 1492,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeSMG"
-	},
-	{
-		"abr": "moyocompositebodysuit",
-		"price": 1233,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Evasuit"
-	},
-	{
-		"abr": "moyocowboyhat",
-		"price": 94,
-		"category": "Moyo headgear",
-		"defname": "Moyo_CowboyHat"
-	},
-	{
-		"abr": "moyocryoblaster",
-		"price": 2800,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CryoBlaster"
-	},
-	{
-		"abr": "moyodeepdivinggear",
-		"price": 4050,
-		"category": "Moyo apparel",
-		"defname": "Moyo_DDgear"
-	},
-	{
-		"abr": "moyodeepdivinghelmet",
-		"price": 1767,
-		"category": "Moyo headgear",
-		"defname": "Moyo_DDhelmet"
-	},
-	{
-		"abr": "moyodivinggear",
-		"price": 2217,
-		"category": "Moyo apparel",
-		"defname": "Moyo_LDgear"
-	},
-	{
-		"abr": "moyodivinghelmet",
-		"price": 950,
-		"category": "Moyo headgear",
-		"defname": "Moyo_LDhelmet"
-	},
-	{
-		"abr": "moyodivingknife",
-		"price": 475,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Knife"
-	},
-	{
-		"abr": "moyoduster",
-		"price": 327,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Duster"
-	},
-	{
-		"abr": "moyoengineeringgear",
-		"price": 517,
-		"category": "Moyo apparel",
-		"defname": "Moyo_EGsuit"
-	},
-	{
-		"abr": "moyoglaive",
-		"price": 1958,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Spear"
-	},
-	{
-		"abr": "moyoheart",
-		"price": 1083,
-		"category": "Natural",
-		"defname": "Moyo_Heart"
-	},
-	{
-		"abr": "moyoheavyautocannon",
-		"price": 3750,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyAutoCannon"
-	},
-	{
-		"abr": "moyoheavychargerifle",
-		"price": 3117,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyChargeRifle"
-	},
-	{
-		"abr": "moyojacket",
-		"price": 275,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Jacket"
-	},
-	{
-		"abr": "moyomeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_Alien_Moyo"
-	},
-	{
-		"abr": "moyominiholoprojectora",
-		"price": 425,
-		"category": "Moyo headgear",
-		"defname": "Moyo_RoyalHologramA"
-	},
-	{
-		"abr": "moyominiholoprojectorb",
-		"price": 425,
-		"category": "Moyo headgear",
-		"defname": "Moyo_RoyalHologramB"
-	},
-	{
-		"abr": "moyominiholoprojectorc",
-		"price": 425,
-		"category": "Moyo headgear",
-		"defname": "Moyo_RoyalHologramC"
-	},
-	{
-		"abr": "moyoparka",
-		"price": 315,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Parka"
-	},
-	{
-		"abr": "moyopiledriver",
-		"price": 1383,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Piledriver"
-	},
-	{
-		"abr": "moyopistol",
-		"price": 808,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Pistol"
-	},
-	{
-		"abr": "moyopowerfist",
-		"price": 1750,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_PowerFist"
-	},
-	{
-		"abr": "moyoprecisionrifle",
-		"price": 1842,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_PrecisionRifle"
-	},
-	{
-		"abr": "moyoroyalguardarmor",
-		"price": 5583,
-		"category": "Moyo apparel",
-		"defname": "Moyo_GDsuit"
-	},
-	{
-		"abr": "moyoroyalguardglaive",
-		"price": 3250,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_GDSpear"
-	},
-	{
-		"abr": "moyoroyalguardhelmet",
-		"price": 1633,
-		"category": "Moyo headgear",
-		"defname": "Moyo_GDhelmet"
-	},
-	{
-		"abr": "moyoroyalguardpowerfist",
-		"price": 3250,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_GDPowerFist"
-	},
-	{
-		"abr": "moyoroyalrobea",
-		"price": 1608,
-		"category": "Moyo apparel",
-		"defname": "Moyo_RoyalRobeA"
-	},
-	{
-		"abr": "moyoroyalrobeb",
-		"price": 1608,
-		"category": "Moyo apparel",
-		"defname": "Moyo_RoyalRobeB"
-	},
-	{
-		"abr": "moyoroyalrobec",
-		"price": 1608,
-		"category": "Moyo apparel",
-		"defname": "Moyo_RoyalRobeC"
-	},
-	{
-		"abr": "moyoroyalsuit",
-		"price": 1717,
-		"category": "Moyo apparel",
-		"defname": "Moyo_Royalsuit"
-	},
-	{
-		"abr": "moyoshirtandboots",
-		"price": 342,
-		"category": "Moyo apparel",
-		"defname": "Moyo_SnB"
-	},
-	{
-		"abr": "moyotuque",
-		"price": 91,
-		"category": "Moyo headgear",
-		"defname": "Moyo_Tuque"
-	},
-	{
-		"abr": "moyoweldingmask",
-		"price": 281,
-		"category": "Moyo headgear",
-		"defname": "Moyo_EGmask"
-	},
-	{
-		"abr": "moyowrench",
-		"price": 251,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Wrench"
 	},
 	{
 		"abr": "muffalo",
@@ -5557,12 +5029,6 @@
 		"defname": "MealNutrientPaste"
 	},
 	{
-		"abr": "nutritionpack",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "Moyo_DBSF"
-	},
-	{
 		"abr": "oatwort",
 		"price": 4,
 		"category": "Alcohol precursors",
@@ -5779,12 +5245,6 @@
 		"defname": "Apparel_Pants"
 	},
 	{
-		"abr": "paralysisdagger",
-		"price": 525,
-		"category": "Melee weapons",
-		"defname": "Kijin_PoisonDagger"
-	},
-	{
 		"abr": "parka",
 		"price": 315,
 		"category": "Apparel",
@@ -5857,12 +5317,6 @@
 		"defname": "AEXP_EggPenguinFertilized"
 	},
 	{
-		"abr": "penoxy-blue",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "PenoxyBlue"
-	},
-	{
 		"abr": "penoxycyline",
 		"price": 30,
 		"category": "Drugs",
@@ -5891,12 +5345,6 @@
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "personaflameblade",
-		"price": 5000,
-		"category": "Persona weapons",
-		"defname": "Kijin_FlameSword"
 	},
 	{
 		"abr": "personamonosword",
@@ -6733,12 +6181,6 @@
 		"defname": "RedSynthread"
 	},
 	{
-		"abr": "regene-blue",
-		"price": 167,
-		"category": "Drugs",
-		"defname": "BlueMed"
-	},
-	{
 		"abr": "relief",
 		"price": 1983,
 		"category": "Art",
@@ -7051,12 +6493,6 @@
 		"defname": "VCE_Salt"
 	},
 	{
-		"abr": "saltingbarrel",
-		"price": 84,
-		"category": "Production",
-		"defname": "SaltingBarrel"
-	},
-	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -7067,12 +6503,6 @@
 		"price": 10,
 		"category": "Raw resources",
 		"defname": "Sapphire"
-	},
-	{
-		"abr": "sapphiremeth",
-		"price": 58,
-		"category": "Drugs",
-		"defname": "BlueUp"
 	},
 	{
 		"abr": "scaleman",
@@ -7243,12 +6673,6 @@
 		"defname": "Silver"
 	},
 	{
-		"abr": "silverbar",
-		"price": 167,
-		"category": "Raw resources",
-		"defname": "SilverBar"
-	},
-	{
 		"abr": "simplebake",
 		"price": 25,
 		"category": "Meals",
@@ -7397,12 +6821,6 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Smoke"
-	},
-	{
-		"abr": "smokebombbelt",
-		"price": 124,
-		"category": "Apparel",
-		"defname": "Kijin_SmokeBombBelt"
 	},
 	{
 		"abr": "smokeleafbutter",
@@ -8681,337 +8099,7 @@
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightSpringGreen"
-	},
-	{
-		"abr": "walllight(violet)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightViolet"
-	},
-	{
-		"abr": "walllight(yellow)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightYellow"
-	},
-	{
-		"abr": "wallsunlight",
-		"price": 32,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallSunLight"
-	},
-	{
-		"abr": "walrus",
-		"price": 917,
-		"category": "Animal",
-		"defname": "AEXP_Walrus"
-	},
-	{
-		"abr": "walrustusk",
-		"price": 133,
-		"category": "Items",
-		"defname": "AEXP_WalrusTusk"
-	},
-	{
-		"abr": "warmask",
-		"price": 101,
-		"category": "Headgear",
-		"defname": "Apparel_WarMask"
-	},
-	{
-		"abr": "warveil",
-		"price": 75,
-		"category": "Headgear",
-		"defname": "Apparel_WarVeil"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 285,
-		"category": "Furniture",
-		"defname": "Table_Wardrobe"
-	},
-	{
-		"abr": "warg",
-		"price": 750,
-		"category": "Animal",
-		"defname": "Warg"
-	},
-	{
-		"abr": "wargmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Warg"
-	},
-	{
-		"abr": "warhammer",
-		"price": 608,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Warhammer"
-	},
-	{
-		"abr": "wasabi",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "VCE_RawWasabi"
-	},
-	{
-		"abr": "wasabipaste",
-		"price": 5,
-		"category": "Condiments",
-		"defname": "VCE_WasabiPaste"
-	},
-	{
-		"abr": "watermelon",
-		"price": 2,
-		"category": "Fruits",
-		"defname": "Rawwatermelon"
-	},
-	{
-		"abr": "watermelonsoda",
-		"price": 25,
-		"category": "Garden soda",
-		"defname": "WatermelonSoda"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "welshterrier",
-		"price": 417,
-		"category": "Animal",
-		"defname": "AEXP_WelshTerrier"
-	},
-	{
-		"abr": "wheatgrains",
-		"price": 1,
-		"category": "Plant matter",
-		"defname": "RC2_RawWheat"
-	},
-	{
-		"abr": "wheatwort",
-		"price": 4,
-		"category": "Alcohol precursors",
-		"defname": "RC2_WheatWort"
-	},
-	{
-		"abr": "whiskey",
-		"price": 40,
-		"category": "Alcohol",
-		"defname": "RC2_Whiskey"
-	},
-	{
-		"abr": "whiskey",
-		"price": 50,
-		"category": "Drugs",
-		"defname": "VBE_Whiskey"
-	},
-	{
-		"abr": "whiskeycask",
-		"price": 725,
-		"category": "Production",
-		"defname": "VBE_WhiskeyCask"
-	},
-	{
-		"abr": "whiskeymash",
-		"price": 4,
-		"category": "Musts and syrups",
-		"defname": "VBE_WhiskeyMash"
-	},
-	{
-		"abr": "whisky",
-		"price": 33,
-		"category": "Garden alcohol",
-		"defname": "whisky"
-	},
-	{
-		"abr": "whitedevilstrand",
-		"price": 9,
-		"category": "Dyed Devilstrand",
-		"defname": "WhiteDevilstrand"
-	},
-	{
-		"abr": "whitehyperweave",
-		"price": 15,
-		"category": "Dyed Hyperweave",
-		"defname": "WhiteHyperweave"
-	},
-	{
-		"abr": "whiteonions",
-		"price": 2,
-		"category": "Raw vegetarian",
-		"defname": "VCE_RawOnion"
-	},
-	{
-		"abr": "whitesynthread",
-		"price": 7,
-		"category": "Dyed Synthread",
-		"defname": "WhiteSynthread"
-	},
-	{
-		"abr": "wildboar",
-		"price": 333,
-		"category": "Animal",
-		"defname": "WildBoar"
-	},
-	{
-		"abr": "wildebeest",
-		"price": 567,
-		"category": "Animal",
-		"defname": "AEXP_Wildebeest"
-	},
-	{
-		"abr": "wildebeestpelt",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "AEXP_Leather_Wildebeest"
-	},
-	{
-		"abr": "wine",
-		"price": 42,
-		"category": "Alcohol",
-		"defname": "RC2_Wine"
-	},
-	{
-		"abr": "wine",
-		"price": 47,
-		"category": "Garden alcohol",
-		"defname": "Wine"
-	},
-	{
-		"abr": "winemust",
-		"price": 17,
-		"category": "Alcohol precursor",
-		"defname": "VG_GrapeMust"
-	},
-	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Wolf_Timber"
-	},
-	{
-		"abr": "wolfman",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "WolfManXH"
-	},
-	{
-		"abr": "wolfmanmeat",
-		"price": 1,
-		"category": "Raw meat",
-		"defname": "Meat_WolfManXH"
-	},
-	{
-		"abr": "wolfskin",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Wolf"
-	},
-	{
-		"abr": "wood",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "WoodLog"
-	},
-	{
-		"abr": "woolcloth",
-		"price": 3,
-		"category": "Textiles",
-		"defname": "WoolCloth"
-	},
-	{
-		"abr": "woolloom",
-		"price": 148,
-		"category": "Production",
-		"defname": "BenchWoolLoom"
-	},
-	{
-		"abr": "wort",
-		"price": 4,
-		"category": "Alcohol precursor",
-		"defname": "Wort"
-	},
-	{
-		"abr": "writerstable",
-		"price": 252,
-		"category": "Production",
-		"defname": "VBE_WritersTable"
-	},
-	{
-		"abr": "yak",
-		"price": 533,
-		"category": "Animal",
-		"defname": "Yak"
-	},
-	{
-		"abr": "yakbeef",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Yak"
-	},
-	{
-		"abr": "yams",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawYams"
-	},
-	{
-		"abr": "yayo",
-		"price": 35,
-		"category": "Drugs",
-		"defname": "Yayo"
-	},
-	{
-		"abr": "yellowcloth",
-		"price": 2,
-		"category": "Dyed Cloth",
-		"defname": "YellowCloth"
-	},
-	{
-		"abr": "yellowdevilstrand",
-		"price": 9,
-		"category": "Dyed Devilstrand",
-		"defname": "YellowDevilstrand"
-	},
-	{
-		"abr": "yellowhyperweave",
-		"price": 15,
-		"category": "Dyed Hyperweave",
-		"defname": "YellowHyperweave"
-	},
-	{
-		"abr": "yellowsynthread",
-		"price": 7,
-		"category": "Dyed Synthread",
-		"defname": "YellowSynthread"
-	},
-	{
-		"abr": "yorkshireterrier",
-		"price": 167,
-		"category": "Animal",
-		"defname": "YorkshireTerrier"
-	},
-	{
-		"abr": "yorkshireterriermeat",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "zebra",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "AEXP_Zebra"
-	},
-	{
-		"abr": "zeushammer",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Zeushammer"
 	}
 	],
-	"total": 1502
+	"total": 1433
 }
